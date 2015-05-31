@@ -1,0 +1,23 @@
+
+body{
+
+background-color:black;
+}
+.container{
+width:100%;
+margin:auto;
+text-align: center;
+background: black;
+color: red;
+}
+.main_image{
+background-color:black;
+background:url("dsbg.jpg") no-repeat center center fixed;
+height:400px;
+max-width:100%;
+}
+#dv{
+max-width:100%;
+height:400px;
+
+}
